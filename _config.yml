@@ -1,6 +1,6 @@
-title: Dani G # your name (or website title) here
-logo: "/images/Grow&TechnologyHeadshots-24.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Dani G
+logo: "/images/Grow&TechnologyHeadshots-24.jpg?raw=true"
+description: >
   First description 
   <br><br>
   Second description 
@@ -8,4 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/danimcgee/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-91951644-1 # your Google Analytics tracking ID here
+google_analytics: UA-91951644-1
